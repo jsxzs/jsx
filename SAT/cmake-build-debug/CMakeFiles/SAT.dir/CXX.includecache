@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/SAT/DPLL.h
+time.h
+-
+cnf.h
+D:/SAT/cnf.h
+
+D:/SAT/cnf.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+
+D:/SAT/main.cpp
+cnf.h
+D:/SAT/cnf.h
+DPLL.h
+D:/SAT/DPLL.h
+sudoku.h
+D:/SAT/sudoku.h
+
+D:/SAT/sudoku.h
+DPLL.h
+D:/SAT/DPLL.h
+cnf.h
+D:/SAT/cnf.h
+

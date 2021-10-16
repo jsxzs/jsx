@@ -1,0 +1,3 @@
+D:/SAT/cmake-build-debug/CMakeFiles/SAT.dir
+D:/SAT/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SAT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
